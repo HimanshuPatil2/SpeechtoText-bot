@@ -1,0 +1,4 @@
+by using command "pip install" you have to install these three libraries.
+1. pyttsx3
+2. speechRecognition
+3. pyaudio
